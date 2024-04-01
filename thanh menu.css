@@ -1,0 +1,41 @@
+.menu {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}
+
+.menu-items {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.main-item {
+  display: inline-block;
+  margin-right: 20px;
+  position: relative; /* Đặt vị trí cho menu con */
+}
+
+.sub-menu {
+  display: none;
+  position: absolute;
+  top: 100%; /* Hiển thị menu con ngay dưới mục chính */
+  left: 0;
+  background-color: #333;
+  padding: 10px;
+}
+
+.sub-menu a {
+  display: block;
+  color: #fff;
+  text-decoration: none;
+  padding: 5px 0;
+}
+
+.sub-menu a:hover {
+  background-color: #555;
+}
+
+.main-item:hover .sub-menu {
+  display: block; /* Hiển thị menu con khi di chuột qua mục chính */
+}
