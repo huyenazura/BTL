@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    
+    <link rel="stylesheet" href="../css/Styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Arbutus:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@600;800;900&display=swap"
+    />
+  </head>
+  <body>
+    <header>
+      <div id="header">
+        <div class="picture">
+
+          <div id="menu">
+            <ul>
+              <li>
+                <a href="https://www.art.yale.edu/" target="_blank"> Home</a>
+              </li>
+              <li>
+                <a href="https://www.art.yale.edu/about" target="_blank"
+                  >About the School</a
+                >
+              </li>
+              <li>
+                <a href="https://www.art.yale.edu/apply" target="_blank"
+                  >Apply to the School</a
+                >
+              </li>
+              <li>
+                <a href="https://www.art.yale.edu/exhibitions" target="_blank"
+                  >Exhibitions</a
+                >
+              </li>
+              <li>
+                <a href="https://www.art.yale.edu/publications" target="_blank"
+                  >Publications</a
+                >
+              </li>
+              <li>
+                <a href="https://www.art.yale.edu/news" target="_blank">News</a>
+              </li>
+              <li>
+                <a href="https://www.art.yale.edu/public-events" target="_blank"
+                  >Public Events</a
+                >
+              </li>
+              <li><a href="">Login</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </header>
+    <div class="landing-page">
+      <section class="exhibition-parent">
+        <h1 class="exhibitions">Exhibitions</h1>
+      </section>
+      <section class="gallery-info">
+        <div class="the-school-of-container">
+          <p class="the-school-of">
+            The School of Art galleries in Green Hall provide a year-round forum
+            for the exhibition of work by students, faculty, and special guests
+            in the four graduate departments of the School and the undergraduate
+            program.
+          </p>
+          <p class="during-exhibitions-green">
+            During exhibitions, Green Hall Gallery at 1156 Chapel Street is
+            typically open to the public but due to COVID-19, it will remain
+            open only to the Yale community until further notice.
+          </p>
+        </div>
+      </section>
+      <section class="m-f-a-thesis-exhibitions">
+        <div class="exhibition-title-wrapper">
+          <div class="exhibition-title">
+            <div class="spring-mfa-thesis">SPRING MFA THESIS EXHIBITIONS</div>
+            <div class="exhibition-title-inner">
+              <div class="website-link-parent">
+                <div class="website-link">
+                  <img
+                    class="image-6-icon"
+                    loading="lazy"
+                    alt=""
+                    src="https://cdn.filestackcontent.com/resize=width:700/blT0suR1PZBoFtohuAkC"
+                  />
+                </div>
+                <div class="please-visit-our-container">
+                  <p class="please-visit-our">
+                    Please visit our thesis website for the most up-to-date
+                    information on our exhibitions. Information and images will
+                    be added throughout the semester and you can learn more
+                    about the individual artists and designers that make up the
+                    class of 2024.
+                  </p>
+                  <p class="blank-line">&nbsp;</p>
+                  <p class="artyaleedumfathesis">art.yale.edu/MFAThesis</p>
+                </div>
+              </div>
+            </div>
+            <div class="exhibition-title-child"></div>
+          </div>
+        </div>
+        <div class="major-showcases">
+          <div class="doom-part-i">DOOM (Part I & Part II)</div>
+          <div class="sculpture-exhibition">
+            <div class="sculpture-mfa-thesis-container">
+              <p class="sculpture-mfa-thesis">
+                Sculpture MFA Thesis Exhibition
+              </p>
+              <p class="part-ii-march-25">Part II: March 25 – April 1, 2024</p>
+              <p class="green-hall-gallery">Green Hall Gallery</p>
+              <p class="public-reception-on">
+                Public reception on Friday, March 29 from 6-8PM
+              </p>
+              <p class="sculpture-mfa-students">
+                Sculpture MFA students continue our spring thesis exhibitions
+                with “DOOM (Part I & Part II),” open to the Yale Community and
+                invited, accompanied guests.
+              </p>
+              <p class="featuring-work-by">
+                Featuring work by Yacine Fall, Elli Fotopoulou, Patrick Henry,
+                Baxter Koziol, and Rafael Villares.
+              </p>
+            </div>
+          </div>
+          <div class="major-showcases-child"></div>
+        </div>
+      </section>
+      <section class="spring-green-hall-gallery">
+        <div class="painting-printmaking">
+          <h3 class="spring-2024-in-green-hall-gall">
+            SPRING 2024 IN GREEN HALL GALLERY
+          </h3>
+        </div>
+        <div class="frame-parent">
+          <div class="schedule-label-parent">
+            <div class="schedule-label">
+              <div class="exhibition-schedule">EXHIBITION SCHEDULE</div>
+            </div>
+            <div class="paintingprintmaking-mfa-thesi-container">
+              <p class="paintingprintmaking-mfa-thesi">
+                Painting/Printmaking MFA Thesis Exhibition Group 1
+              </p>
+              <p class="january-20">January 20 – 30, 2024</p>
+              <p class="public-reception-friday">
+                Public reception: Friday, January 26 from 6–8PM
+              </p>
+              <p class="paintingprintmaking-mfa-thesi1">
+                Painting/Printmaking MFA Thesis Exhibition Group 2
+              </p>
+              <p class="february-7">February 7 – 17, 2024</p>
+              <p class="public-reception-friday1">
+                Public reception: Friday, February 9 from 6–8PM
+              </p>
+              <p class="sculpture-mfa-thesis1">
+                Sculpture MFA Thesis Exhibition Group 1
+              </p>
+              <p class="march-1">March 1 – 8, 2024</p>
+              <p class="public-reception-friday2">
+                Public reception: Friday, March 1 from 6–8PM
+              </p>
+              <p class="sculpture-mfa-thesis2">
+                Sculpture MFA Thesis Exhibition Group 2
+              </p>
+              <p class="march-25">March 25 – April 1, 2024</p>
+              <p class="public-reception-friday3">
+                Public reception: Friday, March 29 from 6–8PM
+              </p>
+              <p class="undergraduate-show">Undergraduate Show</p>
+              <p class="april-12">April 12 – 19, 2024</p>
+              <p class="public-reception-wednesday">
+                Public reception: Wednesday, April 17 from 6–8PM
+              </p>
+              <p class="photography-mfa-thesis">
+                Photography MFA Thesis Exhibition
+              </p>
+              <p class="april-27">April 27 – May 4, 2024</p>
+              <p class="public-reception-friday4">
+                Public reception: Friday, May 3 from 6–8PM
+              </p>
+              <p class="graphic-design-mfa">
+                Graphic Design MFA Thesis Exhibition
+              </p>
+              <p class="may-13">May 13 – 21, 2024</p>
+              <p class="public-reception-saturday">
+                Public reception: Saturday, May 18 from 6–8PM
+              </p>
+            </div>
+            <div class="frame-child"></div>
+          </div>
+          <div class="past-exhibitions">
+            <div class="visiting">VISITING</div>
+            <div class="yale-school-of-arts-spring-20-wrapper">
+              <div class="yale-school-of-container">
+                <p class="yale-school-of">
+                  Yale School of Art’s Spring 2024 receptions are open to the
+                  public. All visitors are encouraged to be fully vaccinated and
+                  boosted. Masks are also strongly recommended.
+                </p>
+                <p class="during-all-other">
+                  During all other gallery hours, exhibitions are only open to
+                  the Yale Community (current ID holders) and their invited
+                  accompanied guests.
+                </p>
+                <p class="find-all-upcoming-receptions-o">
+                  <a
+                    class="find-all-upcoming-receptions-o1"
+                    href="https://yaleart.org/publicevents"
+                    target="_blank"
+                  >
+                    <span class="find-all-upcoming"
+                      >Find all upcoming receptions on our public events
+                      calendar here &gt;</span
+                    >
+                  </a>
+                </p>
+                <p class="blank-line1">&nbsp;</p>
+                <p class="yale-community">
+                  YALE COMMUNITY & INVITED, ACCOMPANIED GUESTS
+                </p>
+                <p class="spring-2024-gallery">
+                  Spring 2024 Gallery Hours:* Monday-Friday: 11AM-6PM, Saturday
+                  + Sunday: Noon-4PM.
+                </p>
+              </div>
+            </div>
+            <div class="past-exhibitions-child"></div>
+          </div>
+        </div>
+      </section>
+      <section class="additional-info">
+        <div class="exhibition-finder">
+          <a
+            class="find-past-school"
+            href="https://www.art.yale.edu/exhibitions/archive"
+            target="_blank"
+            >Find past School of Art exhibitions in our developing archive
+            &gt;</a
+          >
+          <div class="for-soa-faculty-container">
+            For SoA faculty & students: 
+            <a
+              class="more-about-gallery-spaces-whe"
+              href="https://www.art.yale.edu/eik"
+              target="_blank"
+            >
+              <span class="more-about-gallery"
+                >More about gallery spaces, when they’re available, & the
+                gallery-request form &gt;</span
+              >
+            </a>
+          </div>
+        </div>
+      </section>
+    </div>
+    
+    <div id="footer">
+      <div class="address">
+        <h3>Address</h3>
+        <p>
+          Yale School of Art 1156 Chapel Street,<br> POB 208339 New Haven,
+          Connecticut,<br> 06520-8339
+        </p>
+      </div>
+      <div class="social">
+        <h3>Social</h3>
+        <div class="link">
+          <a href="https://www.facebook.com/YaleSchoolofArt/">Facebook</a><br />
+          <a href="https://www.instagram.com/yaleschoolofart/">Instagram</a><br />
+          <a href="https://www.youtube.com/channel/UCDwJT0mYodTSodcpH-hGmdA">YouTube</a>
+        </div>
+      </div>
+      <div class="contact">
+        <h3>Contact</h3>
+        <div class="link">
+        <a href="https://www.art.yale.edu/about/support-the-school">Support the School</a><br />
+        <a href="https://www.art.yale.edu/about/visiting">Visiting</a><br/>
+        <a href="https://www.art.yale.edu/about/contact">Contact</a>
+      </div>
+      
+    </div>
+  
+
+  </body>
+</html>
