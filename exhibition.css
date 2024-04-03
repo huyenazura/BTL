@@ -1,0 +1,758 @@
+.exhibitions {
+  margin: 0;
+  height: 113px;
+  width: 672px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.exhibition-parent {
+  width: 1442px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+  text-align: center;
+  font-size: 75px;
+  color: #4f58a8;
+  font-family: var(--font-arbutus);
+}
+.the-school-of {
+  margin-block-start: 0;
+  margin-block-end: 0.6px;
+}
+.during-exhibitions-green {
+  margin: 0;
+}
+.the-school-of-container {
+  flex: 1;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  max-width: 100%;
+}
+.gallery-info {
+  width: 1442px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-20xl) var(--padding-20xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: 30px;
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.spring-mfa-thesis {
+  width: 646.4px;
+  height: 77.5px;
+  position: relative;
+  font-weight: 900;
+  display: inline-block;
+  flex-shrink: 0;
+  transform: rotate(0.3deg);
+  max-width: 105%;
+}
+.image-6-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.website-link {
+  height: 358.4px;
+  width: 226.8px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+  box-sizing: border-box;
+  min-width: 226.8px;
+}
+.blank-line,
+.please-visit-our {
+  margin-block-start: 0;
+  margin-block-end: 0.6px;
+}
+.artyaleedumfathesis {
+  margin: 0;
+  text-decoration: underline;
+}
+.please-visit-our-container {
+  height: 253.8px;
+  flex: 1;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  transform: rotate(0.3deg);
+  min-width: 226px;
+  max-width: 100%;
+}
+.exhibition-title-inner,
+.website-link-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.website-link-parent {
+  flex: 1;
+  justify-content: center;
+  padding: 0 1px 0 0;
+  gap: 32.2px;
+}
+.exhibition-title-inner {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-4xs);
+  text-align: left;
+  font-size: var(--font-size-6xl);
+}
+.exhibition-title-child {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-khaki);
+  mix-blend-mode: darken;
+  z-index: 1;
+}
+.exhibition-title,
+.exhibition-title-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.exhibition-title {
+  align-self: stretch;
+  padding: var(--padding-xl) 26.8px 42.6px var(--padding-12xl);
+  position: relative;
+  gap: 19px;
+}
+.exhibition-title-wrapper {
+  width: 675px;
+  padding: 4px 0 0;
+  min-width: 675px;
+}
+.doom-part-i {
+  width: 583.3px;
+  position: relative;
+  font-weight: 900;
+  display: inline-block;
+  transform: rotate(0.3deg);
+  max-width: 100%;
+}
+.green-hall-gallery,
+.part-ii-march-25,
+.public-reception-on,
+.sculpture-mfa-students,
+.sculpture-mfa-thesis {
+  margin-block-start: 0;
+  margin-block-end: 0.6px;
+}
+.featuring-work-by {
+  margin: 0;
+}
+.sculpture-mfa-thesis-container {
+  height: 372.2px;
+  flex: 1;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  transform: rotate(0.3deg);
+  max-width: 100%;
+}
+.sculpture-exhibition {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xs) 0 7.4px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+}
+.major-showcases-child {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-khaki);
+  mix-blend-mode: darken;
+  z-index: 1;
+}
+.m-f-a-thesis-exhibitions,
+.major-showcases {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.major-showcases {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-5xl) 29.6px 28.5px;
+  position: relative;
+  gap: 56.9px;
+  min-width: 460px;
+}
+.m-f-a-thesis-exhibitions {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 var(--padding-6xl);
+  gap: 70px;
+  text-align: center;
+  font-size: var(--font-size-16xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.spring-2024-in-green-hall-gall {
+  margin: 0;
+  width: 701px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 900;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.painting-printmaking {
+  width: 1361px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.exhibition-schedule {
+  height: 40px;
+  flex: 1;
+  position: relative;
+  font-weight: 900;
+  display: inline-block;
+  max-width: 100%;
+}
+.schedule-label {
+  width: 558px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 61px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.april-12,
+.april-27,
+.february-7,
+.graphic-design-mfa,
+.january-20,
+.march-1,
+.march-25,
+.may-13,
+.paintingprintmaking-mfa-thesi,
+.paintingprintmaking-mfa-thesi1,
+.photography-mfa-thesis,
+.public-reception-friday,
+.public-reception-friday1,
+.public-reception-friday2,
+.public-reception-friday3,
+.public-reception-friday4,
+.public-reception-wednesday,
+.sculpture-mfa-thesis1,
+.sculpture-mfa-thesis2,
+.undergraduate-show {
+  margin-block-start: 0;
+  margin-block-end: 0.6px;
+}
+.public-reception-saturday {
+  margin: 0;
+}
+.paintingprintmaking-mfa-thesi-container {
+  align-self: stretch;
+  height: 731px;
+  position: relative;
+  font-weight: 600;
+  text-align: left;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.frame-child {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-khaki);
+  mix-blend-mode: darken;
+  z-index: 1;
+}
+.schedule-label-parent {
+  width: 677px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xl) var(--padding-18xl) 67px 48px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 34px;
+  min-width: 677px;
+  max-width: 100%;
+}
+.visiting {
+  width: 594px;
+  height: 40px;
+  position: relative;
+  font-weight: 900;
+  white-space: pre-wrap;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.during-all-other,
+.yale-school-of {
+  margin-block-start: 0;
+  margin-block-end: 0.6px;
+}
+.find-all-upcoming {
+  text-decoration: underline;
+}
+.find-all-upcoming-receptions-o1 {
+  color: inherit;
+}
+.blank-line1,
+.find-all-upcoming-receptions-o,
+.yale-community {
+  margin-block-start: 0;
+  margin-block-end: 0.6px;
+}
+.spring-2024-gallery {
+  margin: 0;
+}
+.yale-school-of-container {
+  height: 422px;
+  flex: 1;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  max-width: 100%;
+}
+.yale-school-of-arts-spring-20-wrapper {
+  width: 603px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 5px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+}
+.past-exhibitions-child {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-khaki);
+  mix-blend-mode: darken;
+  z-index: 1;
+}
+.past-exhibitions {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 35px var(--padding-18xl) 376px;
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-11xl);
+  min-width: 460px;
+  max-width: 100%;
+}
+.frame-parent,
+.spring-green-hall-gallery {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 68px;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+}
+.spring-green-hall-gallery {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 59px;
+  box-sizing: border-box;
+  gap: 10px;
+  text-align: left;
+  font-size: var(--font-size-16xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.find-past-school {
+  width: 1337px;
+  height: 66px;
+  position: relative;
+  font-weight: 800;
+  color: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.find-past-school,
+.more-about-gallery {
+  text-decoration: underline;
+}
+.more-about-gallery-spaces-whe {
+  color: inherit;
+}
+.for-soa-faculty-container {
+  align-self: stretch;
+  position: relative;
+  font-weight: 800;
+}
+.additional-info,
+.exhibition-finder,
+.landing-page {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.exhibition-finder {
+  flex: 1;
+  flex-direction: column;
+  gap: 23px;
+  max-width: 100%;
+}
+.additional-info,
+.landing-page {
+  box-sizing: border-box;
+}
+.additional-info {
+  width: 1391px;
+  flex-direction: row;
+  padding: 0 15px;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.landing-page {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 73px 40px 122px;
+  gap: var(--gap-11xl);
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1250px) {
+  .exhibition-title-wrapper {
+    flex: 1;
+  }
+  .m-f-a-thesis-exhibitions {
+    flex-wrap: wrap;
+  }
+  .schedule-label-parent {
+    flex: 1;
+  }
+  .frame-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .exhibition-title-wrapper {
+    min-width: 100%;
+  }
+  .schedule-label-parent {
+    padding-top: var(--padding-xl);
+    padding-bottom: 44px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .past-exhibitions {
+    padding-top: 23px;
+    padding-bottom: 244px;
+    box-sizing: border-box;
+  }
+  .spring-green-hall-gallery {
+    padding-bottom: 38px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .exhibitions {
+    font-size: 60px;
+  }
+  .the-school-of-container {
+    font-size: 24px;
+  }
+  .spring-mfa-thesis {
+    font-size: var(--font-size-9xl);
+  }
+  .image-6-icon {
+    align-self: stretch;
+    width: auto;
+  }
+  .website-link {
+    flex: 1;
+  }
+  .website-link-parent {
+    flex-wrap: wrap;
+    gap: 32.2px 16px;
+  }
+  .exhibition-title {
+    padding-bottom: 28px;
+    box-sizing: border-box;
+  }
+  .doom-part-i {
+    font-size: var(--font-size-9xl);
+  }
+  .major-showcases {
+    gap: 28px 56.9px;
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .m-f-a-thesis-exhibitions {
+    gap: 70px 35px;
+  }
+  .spring-2024-in-green-hall-gall {
+    font-size: var(--font-size-9xl);
+  }
+  .schedule-label {
+    padding-left: var(--padding-11xl);
+    padding-right: var(--padding-11xl);
+    box-sizing: border-box;
+  }
+  .schedule-label-parent {
+    gap: 17px 34px;
+    padding-left: var(--padding-5xl);
+    box-sizing: border-box;
+  }
+  .past-exhibitions {
+    gap: 15px 30px;
+    min-width: 100%;
+  }
+  .frame-parent {
+    gap: 68px 34px;
+  }
+  .spring-green-hall-gallery {
+    padding-bottom: var(--padding-6xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .exhibitions {
+    font-size: 45px;
+  }
+  .the-school-of-container {
+    font-size: 18px;
+  }
+  .spring-mfa-thesis {
+    font-size: var(--font-size-2xl);
+  }
+  .please-visit-our-container {
+    font-size: var(--font-size-xl);
+  }
+  .doom-part-i {
+    font-size: var(--font-size-2xl);
+  }
+  .sculpture-mfa-thesis-container {
+    font-size: var(--font-size-xl);
+  }
+  .m-f-a-thesis-exhibitions {
+    gap: 70px 17px;
+  }
+  .spring-2024-in-green-hall-gall {
+    font-size: var(--font-size-2xl);
+  }
+  .exhibition-schedule,
+  .paintingprintmaking-mfa-thesi-container {
+    font-size: var(--font-size-xl);
+  }
+  .schedule-label-parent {
+    padding-bottom: 29px;
+    box-sizing: border-box;
+  }
+  .visiting,
+  .yale-school-of-container {
+    font-size: var(--font-size-xl);
+  }
+  .past-exhibitions {
+    padding-top: var(--padding-xl);
+    padding-bottom: 159px;
+    box-sizing: border-box;
+  }
+  .frame-parent {
+    gap: 68px 17px;
+  }
+  .find-past-school,
+  .for-soa-faculty-container {
+    font-size: var(--font-size-xl);
+  }
+}
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-arbutus: Arbutus;
+
+  /* font sizes */
+  --font-size-6xl: 25px;
+  --font-size-xl: 20px;
+  --font-size-16xl: 35px;
+  --font-size-9xl: 28px;
+  --font-size-2xl: 21px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-khaki: #f2ec6c;
+
+  /* Gaps */
+  --gap-11xl: 30px;
+
+  /* Paddings */
+  --padding-6xl: 25px;
+  --padding-18xl: 37px;
+  --padding-xl: 20px;
+  --padding-12xl: 31px;
+  --padding-5xl: 24px;
+  --padding-11xl: 30px;
+  --padding-4xs: 9px;
+  --padding-20xl: 39px;
+}
+/* HEADER */
+#menu {
+  border: 1px solid;
+  background-color: antiquewhite;
+  justify-content: center;
+  height: auto;
+  margin-top: 20px;
+}
+.picture,
+#menu {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.picture img {
+  width: 100%;
+  height: 350px;
+}
+
+#menu ul {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+#menu ul li {
+  display: inline;
+  padding-left: 80px;
+}
+#menu li a {
+  font-size: 14pt;
+  text-decoration: none;
+  color: black;
+}
+#menu li a:hover {
+  color: red;
+}
+#header h1 {
+  color: #4f58a8;
+  padding: 20px;
+  text-align: center;
+  font-size: 50pt;
+  font-family: "Times New Roman", Times, serif;
+  text-transform: uppercase;
+}
+/* css footer*/
+#footer {
+  background-color: #3f3d3d;
+
+  height: 146px;
+  margin-top: 180px;
+  margin-left: 5px;
+  margin-right: 5px;
+  display: flex;
+  flex-direction: row;
+}
+.address {
+  width: 510px;
+  height: 123px;
+}
+.social {
+  width: 510px;
+  height: 123px;
+}
+.contact {
+  width: 510px;
+  height: 123px;
+}
+#footer h3 {
+  color: aliceblue;
+  text-align: center;
+}
+#footer a {
+  color: aliceblue;
+}
+.link {
+  text-align: center;
+  line-height: 1.3;
+}
+.link a {
+  text-decoration: none;
+}
+
+.address p {
+  text-align: center;
+  color: aliceblue;
+  line-height: 1.3;
+}
